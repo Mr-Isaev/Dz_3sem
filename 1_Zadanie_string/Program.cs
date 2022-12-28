@@ -22,3 +22,5 @@ if(b.Length == 5){
 else{
 	Console.WriteLine("Шалун, попросил же, пятизначное");
 }
+
+//Pallindrom(Convert.ToString(13321));
